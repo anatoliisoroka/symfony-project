@@ -1,0 +1,5 @@
+.idea/
+.idea/*
+purchase-it/.env
+.vagrant/
+.vagrant/*
